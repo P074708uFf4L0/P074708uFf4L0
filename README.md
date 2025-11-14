@@ -1,16 +1,21 @@
-## Hi there 👋
+# Willkommen auf meinem GitHub Profil
 
-<!--
-**P074708uFf4L0/P074708uFf4L0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hier findest du eine Sammlung meiner persönlichen Projekte sowie meiner sicherheitsrelevanten Arbeiten. Mein Fokus liegt auf Python, IT-Security, Automatisierung und praxisnahen Tools.
 
-Here are some ideas to get you started:
+## 🔧 Persönliche Projekte
+- **Lernpfad Python**: Schritte, Übungen und Codebeispiele auf meinem Weg in die Python-Welt.
+- **Tools & kleine Helfer**: Skripte, die meinen Alltag vereinfachen.
+- **Experimentelle Projekte**: Alles, was mir spontan in den Sinn kommt und ausprobiert werden muss.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡 Security Repositories
+- **Analyse-Skripte**: Python-Tools für Log-Analyse, Recon oder Automatisierung.
+- **Security-Labs**: Eigene Übungsumgebungen oder Dokumentationen von durchgeführten Labs.
+- **POCs**: Kleine Proof-of-Concepts zu typischen Security-Szenarien.
+
+## 🎯 Fokus
+- Solider Einstieg in Python
+- Automatisierung im Security-Kontext
+- Arbeiten an realistischen Beispielen
+
+## 📫 Kontakt
+Wenn du Feedback hast oder etwas beitragen möchtest – immer gerne per Pull Request oder Issue.
